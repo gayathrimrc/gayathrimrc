@@ -28,7 +28,7 @@ My domain experience spans **Banking, Financial Services, Insurance (BFSI), Reta
 
 ## 📁 Featured AI & Data Projects
 
-*   **[Financial Audit Agent](https://github.com/YOUR_USERNAME/financial-audit-agent):** An autonomous multi-agent system built with LangGraph and Pydantic AI that translates natural language into secure, optimized Snowflake queries with self-healing syntax loops.
+*   **[Financial Audit Agent](https://github.com/gayathrimrc/financial-audit-agent):** An autonomous multi-agent system built with LangGraph and Pydantic AI that translates natural language into secure, optimized Snowflake queries with self-healing syntax loops.
 
 ---
 
